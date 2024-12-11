@@ -1,6 +1,0 @@
-gymnasium
-numpy
-orjson
-requests
-tabulate
-websockets>=8.0
